@@ -1,0 +1,19 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container h1 {
+  font-size: 4rem;
+}
+
+.container h2 {
+  font-size: 1.6rem;
+  font-style: italic;
+  color: #888;
+}
